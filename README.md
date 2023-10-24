@@ -4,8 +4,7 @@
 
 I am a passionate technology enthusiast and software development student. My expertise lies in programming, and I enjoy working with various languages and technologies, always seeking to learn and grow. My primary interests revolve around web projects, mobile applications, and artificial intelligence. My goal is to contribute to the world of technology by sharing knowledge, creating innovative solutions, and, above all, making people's lives easier through programming.
 
-<a href="https://instagram.com/erickcbx7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/xmroott" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/campoyerick" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="mailto:campoyrick@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCboV9i731AGxnBkBC9Hm-PA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </p>
