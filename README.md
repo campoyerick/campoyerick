@@ -1,6 +1,6 @@
 # 👨‍💻 Erick Campoy
 
-**`(Developer/3DMaker)`**
+**`(Developer/3DMaker/UI/UX)`**
 
 I am a passionate technology enthusiast and software development student. My expertise lies in programming, and I enjoy working with various languages and technologies, always seeking to learn and grow. My primary interests revolve around web projects, mobile applications, and artificial intelligence. My goal is to contribute to the world of technology by sharing knowledge, creating innovative solutions, and, above all, making people's lives easier through programming.
 
