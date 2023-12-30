@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👍, me chamo Erick Campoy!</h2>
+<h2 align="center">Hello 👍, my name is Erick Campoy!</h2>
 
 ###
 
