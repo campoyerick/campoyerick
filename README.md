@@ -59,8 +59,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
@@ -73,11 +71,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
