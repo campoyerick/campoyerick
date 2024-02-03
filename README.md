@@ -71,8 +71,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=campoyerick&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="109" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=campoyerick&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most%20used%20languages" height="109" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=campoyerick&theme=dracula" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=campoyerick&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most%20used%20languages" height="130" alt="languages graph"  />
+  
 </div>
 
 ###
