@@ -1,8 +1,10 @@
-<h2 align="center">Hello 👍, my name is Erick Campoy!</h2>
+<h2 align="center">Hello, my name is Erick Campoy!</h2>
 
 ###
 
-<p align="center">It's a pleasure to introduce myself! I'm 17 years old and have been studying programming since I was 10, when I had my first encounter with a computer. Initially, I tried starting with Java, but truth be told, my real first language was JavaScript. From that point onward, I've been dedicating my time to constant improvement in this fascinating field.</p>
+<p align="center">Hello, my name is Erick, and I'm 17 years old! I became interested in programming when I was 8 years old, having my first encounter with codes in Minecraft using the famous JAVA. Nowadays, I'm not a big fan of Java, but I do understand it to some extent. Currently, I enjoy working on both front end and back end development, but I'm studying to become a DevOps engineer.
+
+</p>
 
 ###
 
