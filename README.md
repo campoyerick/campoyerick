@@ -75,11 +75,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=campoyerick&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most%20used%20languages" height="130" alt="languages graph"  />
   
 </div>
-
-###
-
-<div align="center">
-  <a href="https://wakatime.com/@campoyerick">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=campoyerick&layout=compact&theme=radical" alt="Atividade Semanal">
-  </a>
-</div>
