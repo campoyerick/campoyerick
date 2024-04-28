@@ -76,9 +76,10 @@
   
 </div>
 
+###
+
 <div align="center">
   <a href="https://wakatime.com/@campoyerick">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=campoyerick&layout=compact&theme=radical" alt="Atividade Semanal">
   </a>
 </div>
-###
