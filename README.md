@@ -1,77 +1,68 @@
-<h2 align="center">Hello, my name is Erick Campoy!</h2>
-
-###
-
-<p align="center">Hello, my name is Erick, and I'm 17 years old! I became interested in programming when I was 8 years old, having my first encounter with codes in Minecraft using the famous JAVA. Nowadays, I'm not a big fan of Java, but I do understand it to some extent. Currently, I enjoy working on both front end and back end development, but I'm studying to become a DevOps engineer.
-
-</p>
-
-###
-
-<h3 align="center">Languages and Databases that I use</h3>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h3 align="center">Programs I use</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=campoyerick&theme=dracula" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=campoyerick&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most%20used%20languages" height="130" alt="languages graph"  />
+  <h1>👋 Olá, eu sou o Erick Campoy!</h1>
   
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Game+Creator+%F0%9F%8E%AE;DevOps+Enthusiast+%E2%9A%A1;Mobile+Developer+%F0%9F%93%B1;Clean+Code+Lover+%F0%9F%92%9C" alt="Typing SVG" />
+</div>
+
+---
+
+</div>
+
+## 💻 **Frontend Technologies**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,materialui,styledcomponents,webpack,vite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</div>
+
+## 🔧 **Backend Technologies**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,express,fastapi,spring" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=graphql,apollo,prisma,sequelize,hibernate" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,nginx,apache" />
+</div>
+
+## 🗄️ **Databases & Cloud**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,supabase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform" />
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=campoyerick&theme=dracula&hide_border=true" />
+</div>
+
+## 🏆 **Conquistas & Certificações**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=campoyerick&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+## 📫 **Vamos Conectar?**
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://campoypinheiro.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-campoy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/campoyerick)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/campoyerick)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/erickcampoyp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campoyrick@gmail.com)
+
+</div>
+
+<div align="center">
+  
+### 💭 *"Código limpo não é escrito seguindo regras. É escrito por alguém que se importa."* - Robert C. Martin
+
 </div>
