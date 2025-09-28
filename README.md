@@ -1,11 +1,3 @@
-<div align="center">
-  <h1>👋 Olá, eu sou o Erick Campoy!</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Game+Creator+%F0%9F%8E%AE;DevOps+Enthusiast+%E2%9A%A1;Mobile+Developer+%F0%9F%93%B1;Clean+Code+Lover+%F0%9F%92%9C" alt="Typing SVG" />
-</div>
-
----
-
 </div>
 
 ## 💻 **Frontend Technologies**
