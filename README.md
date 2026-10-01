@@ -39,12 +39,6 @@ Do design ao deploy. Programando desde os 9, hoje na [@FloridaHolding](https://g
 
 <br>
 
-## Atividade
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Métricas do GitHub">
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/campoyerick/campoyerick/output/github-snake-dark.svg">
