@@ -5,7 +5,7 @@
 **Do design ao deploy.** Programando desde os 9, hoje na [@FloridaHolding](https://github.com/FloridaHolding) e evoluindo em DevOps.
 
 <a href="https://x.com/erickcampoyp"><img src="https://img.shields.io/badge/X-@erickcampoyp-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/erick-campoy-2474332a8/)"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:campoyrick@gmail.com"><img src="https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
