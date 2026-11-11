@@ -3,11 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&text=Erick%20Campoy&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%C2%B7%20UI%2FUX%20%C2%B7%20Game%20Creator&descAlignY=60&descSize=18" alt="Erick Campoy" />
 
 **Do design ao deploy.** Programando desde os 9, hoje na [@FloridaHolding](https://github.com/FloridaHolding) e evoluindo em DevOps.
-
-<a href="https://x.com/erickcampoyp"><img src="https://img.shields.io/badge/X-@erickcampoyp-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/erick-campoy-2474332a8/)"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:campoyrick@gmail.com"><img src="https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
 </div>
 
 <br>
